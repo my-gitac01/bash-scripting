@@ -4,7 +4,7 @@
 ---
 $ git push                   // you want to push anything into github 
 
-$ git add                    //add
+$ git add         //add
 
 $ git commit -m ""           //
 

@@ -1,8 +1,11 @@
 # bash-scripting
 
-### basics like hw to clone and push 
+### basics like how to clone and push 
 ---
-$ git push 
+$ git push                   // you want to push anything into github 
 
-$ git add
+$ git add                    //add
+
+$ git commit -m ""           //
+
 ----
